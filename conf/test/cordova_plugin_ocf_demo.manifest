@@ -1,0 +1,15 @@
+oeqa.runtime.nodejs.ocfdemo_app
+oeqa.runtime.nodejs.ocfdemo_ambient_light
+oeqa.runtime.nodejs.ocfdemo_button
+oeqa.runtime.nodejs.ocfdemo_button_toggle
+oeqa.runtime.nodejs.ocfdemo_buzzer
+oeqa.runtime.nodejs.ocfdemo_env
+oeqa.runtime.nodejs.ocfdemo_fan
+oeqa.runtime.nodejs.ocfdemo_gas
+oeqa.runtime.nodejs.ocfdemo_led
+oeqa.runtime.nodejs.ocfdemo_motion
+oeqa.runtime.nodejs.ocfdemo_power
+oeqa.runtime.nodejs.ocfdemo_rgb_led
+oeqa.runtime.nodejs.ocfdemo_solar
+oeqa.runtime.nodejs.ocfdemo_switch
+oeqa.runtime.nodejs.ocfdemo_temperature
